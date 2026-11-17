@@ -1,0 +1,6 @@
+{
+  "name": "Stillnote",
+  "description": "A quiet single-screen sanctuary for daily inspiring quotes paired with minimalist fine-art backdrops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
